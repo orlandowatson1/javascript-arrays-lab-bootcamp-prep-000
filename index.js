@@ -1,4 +1,4 @@
 var kittens = ["Milo", "Otis", "Garfield"];
-function destructivelyAppendKitten(kittens, NewKitten) {
-  return [NewKitten, ...kittens];
+function destructivelyAppendKitten(kittens, Ralph) {
+  return [Ralph, ...kittens];
 }
