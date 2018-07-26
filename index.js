@@ -1,5 +1,5 @@
 var kittens = ["Milo", "Otis", "Garfield"];
-function destructivelyAppendKitten() addElementToBeginningOfArray(chocolateBars, candyString){
-  kittens.push()
-  return [kittensString, ...kittens];
+function destructivelyAppendKitten(kittens, NewKitten) {
+  kittens.push(NewKitten)
+  return [NewKitten, ...kittens];
 }
